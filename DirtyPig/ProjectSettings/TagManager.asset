@@ -6,6 +6,10 @@ TagManager:
   tags:
   - PlayerTag
   - DeathPanel
+  - Joystick
+  - DogTag
+  - FarmerTag
+  - HighscoreText
   layers:
   - Default
   - TransparentFX
