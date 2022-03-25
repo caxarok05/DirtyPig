@@ -25,7 +25,7 @@ public class ChangeDirectionScript : MonoBehaviour
         }
 
         //Explanation of conditional logic -> https://ibb.co/Zzgv2qX
-        //Sorry for shitting with if, I hadn't come up with anything more optimized
+        //Sorry for a large number of if, I hadn't come up with anything more optimized
     }
     public static void ChangeDirection(List<Sprite> objSprites, GameObject target ,Vector3 direction)
     {
